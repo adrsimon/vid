@@ -1,4 +1,4 @@
-# Vid Text Editor - In development
+# Vid Text Editor - In development - Cat style #soupinou
 
 A simple & minimal text editor, with only C's standard library.
 
